@@ -292,6 +292,11 @@
       (net 1 "+3V3") (pinfunction "VCC") (pintype "power_in") (tstamp 0d314cd1-056a-45c1-a96a-32a9ae9906f5))
     (pad "6" smd rect (at -0.95 -1.35 90) (size 0.55 1) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 24 "/CH1_3V3") (pinfunction "1Y") (pintype "output") (tstamp 67c729f9-b06e-441e-ac41-29a77bfb6e67))
+    (model ":KICAD7_3DMODEL_DIR:Package_TO_SOT_SMD.3dshapes/SOT-23-6.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 90))
+    )
   )
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
@@ -1460,6 +1465,11 @@
       (net 1 "+3V3") (pinfunction "VCC") (pintype "power_in") (tstamp 104ead8f-1481-48bf-b316-bc0d4b444cd3))
     (pad "6" smd rect (at -0.95 -1.35 90) (size 0.55 1) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 27 "/CH5_3V3") (pinfunction "1Y") (pintype "output") (tstamp 28d925d3-d651-40da-9851-c8a69e6501b5))
+    (model ":KICAD7_3DMODEL_DIR:Package_TO_SOT_SMD.3dshapes/SOT-23-6.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 90))
+    )
   )
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
@@ -2462,6 +2472,11 @@
       (net 3 "+5V") (pinfunction "VCC") (pintype "power_in") (tstamp 81fc6bd5-828f-41ce-a8eb-19d79986b0f1))
     (pad "6" smd rect (at -0.95 -1.35 90) (size 0.55 1) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 13 "/CH7_5V") (pinfunction "1Y") (pintype "output") (tstamp 1422d748-d93b-430d-9d95-5148dd17375d))
+    (model ":KICAD7_3DMODEL_DIR:Package_TO_SOT_SMD.3dshapes/SOT-23-6.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 90))
+    )
   )
 
   (footprint "MountingHole:MountingHole_3.2mm_M3_Pad" (layer "F.Cu")
@@ -2942,6 +2957,11 @@
       (net 1 "+3V3") (pinfunction "VCC") (pintype "power_in") (tstamp 372ecf97-0e98-48a4-85ec-e025f90910e3))
     (pad "6" smd rect (at -0.95 -1.35 90) (size 0.55 1) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 28 "/CH3_3V3") (pinfunction "1Y") (pintype "output") (tstamp a53c8066-7554-4e5e-9336-2be43398643e))
+    (model ":KICAD7_3DMODEL_DIR:Package_TO_SOT_SMD.3dshapes/SOT-23-6.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 90))
+    )
   )
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
